@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+numpy
+timm
+transformers>=4.57.0
+pillow
+huggingface_hub
